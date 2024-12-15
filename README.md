@@ -115,6 +115,7 @@ wscat -c ws://localhost:3000/listen
 ### Monitoring
 
 The application monitors various exchanges for new listings and delistings, sending updates to connected clients in real-time. The following exchanges are monitored:
+- Binance
 - Bitget
 - Kucoin
 - Gateio
