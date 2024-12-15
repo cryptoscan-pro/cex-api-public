@@ -1,6 +1,6 @@
 # CEX API - Cryptoscan
 
-API to listen live centralized exchanges prices and volume in realtime. Spot + Futures.
+API to listen live centralized exchanges prices and volume in realtime. Spot + Futures
 
 **Current Price**: $1350
 **Contacts**: https://t.me/dan_cryptoscan
